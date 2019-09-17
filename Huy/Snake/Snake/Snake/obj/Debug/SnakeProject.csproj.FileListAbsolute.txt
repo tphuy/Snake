@@ -1,0 +1,42 @@
+C:\Users\Huy Tran\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Huy Tran\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Huy Tran\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\SnakeProject.csprojAssemblyReference.cache
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\SnakeProject.Form1.resources
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\SnakeProject.csproj.GenerateResource.cache
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Huy Tran\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\bin\Debug\Snake.exe.config
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\bin\Debug\Snake.exe
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\bin\Debug\Snake.pdb
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\SnakeProject.csprojResolveAssemblyReference.cache
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\SnakeProject.Form1.resources
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\SnakeProject.csproj.GenerateResource.Cache
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\Snake.exe
+D:\DA1\DoAn1_Snake_Final\Snake\Snake\obj\Debug\Snake.pdb
+D:\DA1\New folder\Snake\Snake\bin\Debug\Snake.exe.config
+D:\DA1\New folder\Snake\Snake\bin\Debug\Snake.exe
+D:\DA1\New folder\Snake\Snake\bin\Debug\Snake.pdb
+D:\DA1\New folder\Snake\Snake\obj\Debug\SnakeProject.csprojResolveAssemblyReference.cache
+D:\DA1\New folder\Snake\Snake\obj\Debug\SnakeProject.Form1.resources
+D:\DA1\New folder\Snake\Snake\obj\Debug\Snake.FrmAbout.resources
+D:\DA1\New folder\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\DA1\New folder\Snake\Snake\obj\Debug\SnakeProject.csproj.GenerateResource.Cache
+D:\DA1\New folder\Snake\Snake\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+D:\DA1\New folder\Snake\Snake\obj\Debug\Snake.exe
+D:\DA1\New folder\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\SnakeProject.csprojAssemblyReference.cache
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\SnakeProject.Form1.resources
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\Snake.FrmAbout.resources
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\SnakeProject.csproj.GenerateResource.cache
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Huy Tran\Downloads\Snake\Snake\Snake\obj\Debug\Snake.pdb
